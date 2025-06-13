@@ -35,14 +35,10 @@ This *Amazon Prime Dashboard* is a Power BI project designed to visualize and ex
 
 ---
 
-## 🔹Installation
-
-Follow these steps to view or customize the *Amazon Prime Dashboard*:
-
 1️⃣ *Clone this repository or Download ZIP*
 
 bash
-git clone https://github.com/your-username/amazon-prime-dashboard.git
+git clone https://github.com/OmrajeTambe/Amazon-Prime-Dashboard
 
 
 2️⃣ *Extract ZIP* (if downloaded)
@@ -105,12 +101,6 @@ amazon-prime-dashboard/
 
 ---
 
-## 🔹Preview (optional)
-
-![Dashboard Preview](https://your-repo-link.com/image.jpg)
-
----
-
 ## 🔹Contribution
 
 Contributions are warmly welcomed!
@@ -120,13 +110,6 @@ If you'd like to improve this, please:
 ➥ Create a new branch.
 ➥ Push your changes.
 ➥ Open a *Pull Request*.
-
----
-
-## 🔹License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 🚀 If you find this useful, please *star ⭐ the repository* and *give it a follow!*
